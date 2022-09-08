@@ -3,6 +3,7 @@
 📧 Email: tdat.it2k2@gmail.com <br>
 🗺️ From: VietNam <br>
 💡 Job: Student [HCMUTE - FIT]<br>
+🌐 Portfolio: https://www.datit2k2utefit.tk/ <br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Datonephu/)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tdatIT&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
