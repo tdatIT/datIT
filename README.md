@@ -1,10 +1,11 @@
-# 💫About Me : I'm a third-year student majoring in IT. I want to become Java Developer or something concerning programming
-😃 Full name: Tran Tien Dat <br>
+# 💫About Me : 
+I'm a third-year student majoring in IT. I want to become Java Developer or something concerning programming
+
 📧 Email: tdat.it2k2@gmail.com <br>
 🗺️ From: VietNam <br>
 💡 Job: Student [HCMUTE - FIT]<br>
 🌐 Portfolio: https://www.datit2k2utefit.tk/ <br>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Datonephu/)<br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tdatit&show_icons=true&locale=en&layout=compact" alt="tdatit" /></p>
 
 
