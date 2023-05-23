@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫About Me : I'm a third-year student majoring in IT. I want to become Java Developer or something concerning programming
 😃 Full name: Tran Tien Dat <br>
 📧 Email: tdat.it2k2@gmail.com <br>
 🗺️ From: VietNam <br>
