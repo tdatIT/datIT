@@ -1,5 +1,3 @@
-# 💫About Me : 
-
 <div align="center">I'm a third-year student majoring in IT. I want to become Java Developer or something concerning programming</div>
 <br>
 <div align="center">📧 Email: tdat.it2k2@gmail.com - 🌐 Portfolio: https://www.datit2k2utefit.tk/  </div>
