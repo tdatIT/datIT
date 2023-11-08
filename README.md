@@ -1,6 +1,6 @@
 <div align="center">I'm a final-year student majoring in IT. I want to become Java Developer or something concerning programming</div>
 <br>
-<div align="center">📧 Email: tdat.it2k2@gmail.com - 🌐 Portfolio: http://www.tdatit.tech </div>
+<div align="center">📧 Email: tdat.it2k2@gmail.com - 🌐 Portfolio: https://www.tdatit.tech </div>
 
 <br>
 <div align="center">
