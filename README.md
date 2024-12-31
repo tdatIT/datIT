@@ -1,5 +1,5 @@
 <div align="center">"I'm a junior backend developer, striving to achieve new milestones and create something meaningful"</div><br>
-<div align="center">📧 Email: tdat.it2k2@gmail.com - 🌐 Portfolio: https://www.tdatit.tech </div>
+<div align="center">📧 Email: tdat.it2k2@gmail.com - 🌐 Portfolio: https://tdatit.github.io/portfolio-web </div>
 
 <br>
 <div align="center">
